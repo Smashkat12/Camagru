@@ -1,0 +1,222 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+/* General */
+
+.big-text {
+    font-weight: bolder;
+}
+
+.medium-text {
+    font-weight: bold;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    clear: both;
+}
+
+.marin-0 {
+    margin-top: 0;
+}
+
+.margin-10 {
+    margin-top: 10px;
+}
+
+.left {
+    float: left;
+}
+
+.col-25 {
+    width: 24.5%;
+    height: 1px;
+}
+
+.col-50 {
+    width: 49.5% !important;
+    height: auto;
+}
+
+
+/* End General */
+
+
+/* Index Page */
+
+.index-account-btn-lr {
+    width: 150px;
+    font-weight: bold;
+    border: 2px solid grey;
+    border-radius: 4px;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+    color: white;
+}
+
+.index-account-form-content label {
+    font-weight: bold;
+}
+
+.index-account-form-content input {
+    width: 100%;
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.index-account-form-content select {
+    width: 100%;
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.index-account-form-content {
+    float: left;
+    width: 33.33% !important;
+}
+
+.force-height {
+    height: 5px;
+}
+
+.index-account-form-content-main {
+    width: 100%;
+    clear: both;
+}
+
+.index-account-btn {
+    width: 150px;
+    border: none;
+    background-color: transparent;
+    color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: black;
+    font-weight: bold;
+    padding-bottom: 2.5px;
+}
+
+.index-container {
+    clear: both;
+}
+
+.index-img {
+    margin-top: 15px;
+    height: 200px;
+}
+
+
+/* End Index Page */
+
+
+/* Navigation */
+
+.navigation {
+    width: 100%;
+    height: 45px;
+    background-color: white;
+    color: black;
+    border-bottom: solid black 3px;
+    text-align: center;
+    clear: both;
+    box-shadow: 0px 2.5px rgb(46, 46, 46);
+}
+
+.nav-section {
+    float: left;
+    width: 33%;
+}
+
+.nav-section a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-section a:hover {
+    text-decoration: none;
+    color: cornflowerblue;
+}
+
+.nav-section a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+
+/* End Navigation */
+
+
+/* Post-Image */
+
+.post-image-left {
+    height: 500px;
+    float: left;
+    width: 65%;
+}
+
+.post-image-right {
+    float: left;
+    width: 34%;
+}
+
+.container-post-image,
+#cmi-cam,
+#cmi-upload {
+    width: 100%;
+    padding: 10px;
+}
+
+.cmi-upload input {
+    width: 100%;
+}
+
+.thumbnails {
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: 100% auto;
+    height: auto !important;
+    margin: 10px;
+}
+
+.thumbnails img {
+    width: 20%;
+    height: 15%;
+}
+
+
+/* End Post-Image */
+
+
+/* Profile */
+
+.profile {
+    padding-left: 75px;
+}
+
+
+/* End Profile */
+
+
+/* Comments */
+
+.comments-layout {
+    background-color: white;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+
+
+/* End Comments */
